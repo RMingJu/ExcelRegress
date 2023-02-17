@@ -1,0 +1,10 @@
+D:\02_My_Side_Project\ExcelRegress\ExcelRegress\obj\Debug\ExcelRegress.csproj.AssemblyReference.cache
+D:\02_My_Side_Project\ExcelRegress\ExcelRegress\obj\Debug\ExcelRegress.Properties.Resources.resources
+D:\02_My_Side_Project\ExcelRegress\ExcelRegress\obj\Debug\ExcelRegress.csproj.GenerateResource.cache
+D:\02_My_Side_Project\ExcelRegress\ExcelRegress\obj\Debug\ExcelRegress.csproj.CoreCompileInputs.cache
+D:\02_My_Side_Project\ExcelRegress\ExcelRegress\bin\Debug\ExcelRegress.exe.config
+D:\02_My_Side_Project\ExcelRegress\ExcelRegress\bin\Debug\ExcelRegress.exe
+D:\02_My_Side_Project\ExcelRegress\ExcelRegress\bin\Debug\ExcelRegress.pdb
+D:\02_My_Side_Project\ExcelRegress\ExcelRegress\obj\Debug\ExcelRegress.exe
+D:\02_My_Side_Project\ExcelRegress\ExcelRegress\obj\Debug\ExcelRegress.pdb
+D:\02_My_Side_Project\ExcelRegress\ExcelRegress\obj\Debug\ExcelRegress.csproj.ResolveComReference.cache
